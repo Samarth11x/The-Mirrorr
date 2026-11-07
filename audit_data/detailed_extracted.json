@@ -1,0 +1,981 @@
+{
+  "home": {
+    "title": "THE MIRRORR Unisex Hair & Beauty Studio | Bangalore, India",
+    "meta_desc": "THE MIRRORR Unisex Hair & Beauty Studio in Bangalore ,The Mirror Unisex Hair & Beauty Salon is a premier destination in Bangalore, r.",
+    "images": [
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/service/email.png?v=267",
+        "alt": ""
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/service/white-search.png?v=267",
+        "alt": ""
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/service/search.svg?v=267",
+        "alt": ""
+      },
+      {
+        "src": "https://fplogoimages.withfloats.com/actual/674c2a177110729fc951cfef.jpg",
+        "alt": "logo"
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/preview.png?v=267",
+        "alt": "Preview"
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/wa-icon.svg?v=267",
+        "alt": ""
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+        "alt": "Image Product"
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+        "alt": "Image Product"
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+        "alt": "Image Product"
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+        "alt": "Image Product"
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+        "alt": "Image Gallery"
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+        "alt": "Image Gallery"
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+        "alt": "Image Gallery"
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+        "alt": "Image Gallery"
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+        "alt": "Image Gallery"
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+        "alt": "Image Gallery"
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+        "alt": "Image Gallery"
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+        "alt": "Image Gallery"
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/user.svg?v=267",
+        "alt": ""
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/morning.svg?v=267",
+        "alt": ""
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/afternoon.svg?v=267",
+        "alt": ""
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/evening.svg?v=267",
+        "alt": ""
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/night.svg?v=267",
+        "alt": ""
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+        "alt": ""
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+        "alt": ""
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+        "alt": ""
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+        "alt": ""
+      },
+      {
+        "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+        "alt": ""
+      }
+    ],
+    "text_sample": [
+      "THE MIRRORR Unisex Hair & Beauty Studio | Bangalore, India",
+      ",91,8088323885",
+      "91,[\n  {\n    \"createdon\": \"2024-12-03T14:19:23.567Z\",\n    \"updatedon\": \"2024-12-03T14:19:23.567Z\",\n    \"_parentClassId\": \"660806b82e5dc8173c5b1024\",\n    \"_parentClassName\": \"business\",\n    \"_propertyName\": \"contacts\",\n    \"_kid\": \"674f136b920f9fac0d27d3dd\",\n    \"websiteid\": \"660806b8a63900ef8a46a4ef\",\n    \"isarchived\": false,\n    \"contacttype\": \"\",\n    \"contactnumber\": \"8088323885\"\n  },\n  {\n    \"createdon\": \"2024-12-03T14:19:23.567Z\",\n    \"updatedon\": \"2024-12-03T14:19:23.567Z\",\n    \"_parentClassId\": \"660806b82e5dc8173c5b1024\",\n    \"_parentClassName\": \"business\",\n    \"_propertyName\": \"contacts\",\n    \"_kid\": \"674f136b920f9fac0d27d3dc\",\n    \"websiteid\": \"660806b8a63900ef8a46a4ef\",\n    \"isarchived\": false,\n    \"contacttype\": \"\",\n    \"contactnumber\": \"8088323885\"\n  }\n]",
+      "&#xa0;",
+      "themirrorr2024@gmail.com",
+      "+918088323885",
+      "Toggle navigation",
+      "Book Appointment",
+      "0",
+      "Home",
+      "About",
+      "Services",
+      "Body Polishing",
+      "Massage",
+      "WOMEN HAIR COLOR",
+      "WOMEN HAIR CUT",
+      "Updates",
+      "Gallery",
+      "Photos",
+      "More",
+      "Hair Spa in hosa",
+      "...",
+      "FAMOUS SALON IN H",
+      "...",
+      "\u200bBEST SALON IN HO",
+      "...",
+      "WOMEN HAIR COLOR",
+      "...",
+      "Contact",
+      "Book Appointment",
+      "0",
+      "Updates",
+      "Search",
+      "THE MIRRORR Unisex Hair & Beauty Studio",
+      "Services",
+      "+918088323885",
+      "This is your website preview.",
+      "Currently it only shows your basic business info. Start adding relevant business details such as description, images and products or services to gain your customers attention by using Boost 360",
+      "android app",
+      "/",
+      "iOS App",
+      "/",
+      "web portal",
+      ".",
+      "I UNDERSTAND",
+      "918088323885",
+      "Chat with us",
+      "&#xa0;",
+      "Chat with us on WhatsApp",
+      "&#xd7;",
+      "Start Chatting",
+      "THE MIRRORR Unisex Hair & Beauty Studio",
+      "The Mirror Unisex Hair & Beauty Salon is a premier destination in Bangalore, renowned for its expertise in hairstyling and beauty services. With a foc",
+      "THE MIRRORR Unisex Hair & Beauty Studio",
+      "The Mirror Unisex Hair & Beauty Salon is a premier destination in Bangalore, renowned for its expertise in hairstyling and beauty services. With a foc",
+      "THE MIRRORR Unisex Hair & Beauty Studio",
+      "The Mirror Unisex Hair & Beauty Salon is a premier destination in Bangalore, renowned for its expertise in hairstyling and beauty services. With a foc",
+      "Natural",
+      "Services",
+      "Body Polishing",
+      "Sure, here's a description for a body polishing service:\n\n---\n\n**Indulge in Luxury: Body Polishing Service**\n\nUnveil a radiant, luminous glow with our exclusive Body Polishing service, designed to pamper your skin and revitalize your senses. Our skilled therapists combine the finest ingredients with expert techniques to deliver a transformative experience that leaves your skin irresistibly smooth and radiant.\n\n**Experience the Ritual:**\n\n1. **Exfoliation:** Begin your journey to silky-smooth skin with a gentle exfoliation process that sloughs away dead skin cells, revealing the fresh, luminous skin beneath. Our exfoliating formulas are meticulously crafted to buff and refine, leaving your skin velvety soft and glowing.\n\n2. **Hydration:** Replenish your skin's moisture balance with our nourishing hydration treatments. Luxurious oils and creams infused with potent antioxidants and vitamins are expertly massaged into your skin, restoring vitality and suppleness while promoting cellular renewal.\n\n3. **Massage:** Drift into a state of bliss as our skilled therapists indulge your senses with a soothing massage. Tailored to your preferences, our massages melt away tension and stress, promoting relaxation and enhancing the overall well-being of your body and mind.\n\n4. **Finishing Touches:** Complete your body polishing experience with a lavish application of hydrating body butter or oil, leaving your skin enveloped in a delicate veil of silkiness. Revel in the sensation of silky-smooth skin and bask in the glow of your rejuvenated complexion.\n\n**Benefits:**\n\n- **Radiant Skin:** Say goodbye to dullness and hello to luminosity as our Body Polishing service unveils your skin's natural radiance.\n- **Deep Hydration:** Replenish moisture levels and restore vitality to your skin with our nourishing hydration treatments.\n- **Stress Relief:** Indulge in a moment of relaxation and tranquility with our soothing massage techniques, designed to melt away tension and promote overall well-being.\n- **Silky Smooth Texture:** Experience the luxurious sensation of velvety soft skin, courtesy of our expert exfoliation and moisturizing rituals.\n\n**Treat yourself to the ultimate indulgence with our Body Polishing service and discover the transformative power of radiant, luminous skin. Book your appointment today and embark on a journey to rejuvenation and renewal.**",
+      "view more",
+      "Massage",
+      "\"Indulge in a world of relaxation with our premier massage service, tailored to elevate your mind, body, and spirit. Our skilled therapists blend ancient techniques with modern expertise to provide you with a rejuvenating experience like no other.\n\nEmbark on a journey of tranquility as our therapists work their magic, easing tension and soothing tired muscles with expert precision. Choose from a variety of massage styles, including Swedish, deep tissue, hot stone, aromatherapy, and more, each designed to address your specific needs and preferences.\n\nStep into our serene oasis, where every detail is crafted to enhance your comfort and well-being. Let the gentle music, calming aromas, and plush surroundings transport you to a state of blissful relaxation. Whether you seek relief from stress, muscle soreness, or simply crave a moment of pampering, our massage service promises to leave you feeling refreshed, renewed, and revitalized.\n\nExperience the ultimate in relaxation and wellness with our exceptional massage service. Book your appointment today and treat yourself to the luxury you deserve.\"",
+      "read more",
+      "WOMEN HAIR COLOR",
+      "Description:\n\nWelcome to The Mirror Salon, where we believe every woman deserves to shine with confidence. Our hair color services are designed to bring out the best in you, enhancing your natural beauty and style. Whether you're looking for a subtle change or a bold transformation, our expert stylists are here to make your vision a reality.\n\nHighlights of our Hair Color Services:\n\n1. **Custom Consultation**: Before any color service, we offer a personalized consultation to understand your preferences, lifestyle, and hair goals. This ensures that we tailor the color to suit you perfectly.\n\n2. **Professional Expertise**: Our team of skilled colorists stays updated with the latest trends and techniques in hair coloring. You can trust us to deliver high-quality results every time.\n\n3. **Wide Range of Options**: From vibrant hues to soft, natural tones, we offer a comprehensive range of color options to suit every taste and complexion.\n\n4. **Custom Blending**: We specialize in custom blending techniques to create a unique color that complements your skin tone and enhances your features.\n\n5. **Damage-Free Formulas**: We prioritize the health of your hair, using gentle, ammonia-free formulas that minimize damage and maintain the integrity of your strands.\n\n6. **Color Correction**: If you're unhappy with a previous color treatment or need a correction, our color experts can help you achieve the desired result safely and effectively.\n\n7. **Long-Lasting Results**: We use top-quality color products that ensure your color stays vibrant and beautiful for as long as possible, with minimal fading.\n\n8. **Aftercare Advice**: To help you maintain your color between salon visits, we provide personalized aftercare advice and recommend professional-grade products to keep your hair healthy and vibrant.\n\nAt The Mirror Salon, we're passionate about helping you look and feel your best. Trust us to bring out the true beauty of your hair with our exceptional color services. Schedule your appointment today and let us transform your look!",
+      "read more",
+      "WOMEN HAIR CUT",
+      "At The Mirror Salon, our Women's Hair Cut service is designed to elevate your style and accentuate your natural beauty. Our experienced stylists are adept at creating personalized cuts tailored to your unique preferences and features. Whether you're looking for a bold new look or a subtle refresh, we're here to bring your vision to life. From trendy bob cuts to classic layers, we offer a diverse range of styles to suit every taste. With attention to detail and precision, we ensure that each cut complements your face shape and enhances your overall look. Step into The Mirror Salon and let us transform your hair into a masterpiece of style and sophistication.",
+      "read more",
+      "Previous",
+      "Next",
+      "Explore",
+      "Our gallery",
+      "\u2728\u00a0Transform Your Look with Stunning Highlights!\u00a0\u2728 ...",
+      "view Update",
+      "all Updates",
+      "Owner&apos;s Info",
+      "Ask Us Anything",
+      "send Message",
+      "&#xd7;",
+      "Contact Us",
+      "Close",
+      "&#xd7;",
+      "THE MIRRORR Unisex Hair & Beauty Studio",
+      "The Mirror Unisex Hair & Beauty Salon is a premier destination in Bangalore, renowned for its expertise in hairstyling and beauty services. With a focus on personalized attention and meticulous detail, our seasoned professionals provide a diverse range of services, including haircuts, coloring, facials, and massages. We prioritize client satisfaction and foster a welcoming environment where everyone feels valued. Committed to holistic wellness and sustainability, we offer eco-friendly practices and holistic treatments to nourish the body, mind, and soul. Experience luxury and sophistication at The Mirror, where beauty meets excellence in every aspect of service.",
+      "Close",
+      "&#xd7;",
+      "Close",
+      "https://themirrorrunisexhairbeautysalon.nowfloats.com",
+      "Reach Us",
+      "B. NO. 64, 1st Floor, Vinayaka nagara, Hosa Rd, near SOBHA SILICON OASIS, Doddanagamangala Village, Naganathapura, Bengaluru, Karnataka 560100",
+      "+918088323885",
+      "+918088323885",
+      "themirrorr2024@gmail.com",
+      "Recently Updated services",
+      "body polishing service in hosa road",
+      "body polishing service in bangalore",
+      "body polishing serivece in praghathi nagar"
+    ],
+    "all_text": "THE MIRRORR Unisex Hair & Beauty Studio | Bangalore, India \n ,91,8088323885 \n 91,[\n  {\n    \"createdon\": \"2024-12-03T14:19:23.567Z\",\n    \"updatedon\": \"2024-12-03T14:19:23.567Z\",\n    \"_parentClassId\": \"660806b82e5dc8173c5b1024\",\n    \"_parentClassName\": \"business\",\n    \"_propertyName\": \"contacts\",\n    \"_kid\": \"674f136b920f9fac0d27d3dd\",\n    \"websiteid\": \"660806b8a63900ef8a46a4ef\",\n    \"isarchived\": false,\n    \"contacttype\": \"\",\n    \"contactnumber\": \"8088323885\"\n  },\n  {\n    \"createdon\": \"2024-12-03T14:19:23.567Z\",\n    \"updatedon\": \"2024-12-03T14:19:23.567Z\",\n    \"_parentClassId\": \"660806b82e5dc8173c5b1024\",\n    \"_parentClassName\": \"business\",\n    \"_propertyName\": \"contacts\",\n    \"_kid\": \"674f136b920f9fac0d27d3dc\",\n    \"websiteid\": \"660806b8a63900ef8a46a4ef\",\n    \"isarchived\": false,\n    \"contacttype\": \"\",\n    \"contactnumber\": \"8088323885\"\n  }\n] \n &#xa0; \n themirrorr2024@gmail.com \n +918088323885 \n Toggle navigation \n Book Appointment \n 0 \n Home \n About \n Services \n Body Polishing \n Massage \n WOMEN HAIR COLOR \n WOMEN HAIR CUT \n Updates \n Gallery \n Photos \n More \n Hair Spa in hosa \n ... \n FAMOUS SALON IN H \n ... \n \u200bBEST SALON IN HO \n ... \n WOMEN HAIR COLOR \n ... \n Contact \n Book Appointment \n 0 \n Updates \n Search \n THE MIRRORR Unisex Hair & Beauty Studio \n Services \n +918088323885 \n This is your website preview. \n Currently it only shows your basic business info. Start adding relevant business details such as description, images and products or services to gain your customers attention by using Boost 360 \n android app \n / \n iOS App \n / \n web portal \n . \n I UNDERSTAND \n 918088323885 \n Chat with us \n &#xa0; \n Chat with us on WhatsApp \n &#xd7; \n Start Chatting \n THE MIRRORR Unisex Hair & Beauty Studio \n The Mirror Unisex Hair & Beauty Salon is a premier destination in Bangalore, renowned for its expertise in hairstyling and beauty services. With a foc \n THE MIRRORR Unisex Hair & Beauty Studio \n The Mirror Unisex Hair & Beauty Salon is a premier destination in Bangalore, renowned for its expertise in hairstyling and beauty services. With a foc \n THE MIRRORR Unisex Hair & Beauty Studio \n The Mirror Unisex Hair & Beauty Salon is a premier destination in Bangalore, renowned for its expertise in hairstyling and beauty services. With a foc \n Natural \n Services \n Body Polishing \n Sure, here's a description for a body polishing service:\n\n---\n\n**Indulge in Luxury: Body Polishing Service**\n\nUnveil a radiant, luminous glow with our exclusive Body Polishing service, designed to pamper your skin and revitalize your senses. Our skilled therapists combine the finest ingredients with expert techniques to deliver a transformative experience that leaves your skin irresistibly smooth and radiant.\n\n**Experience the Ritual:**\n\n1. **Exfoliation:** Begin your journey to silky-smooth skin with a gentle exfoliation process that sloughs away dead skin cells, revealing the fresh, luminous skin beneath. Our exfoliating formulas are meticulously crafted to buff and refine, leaving your skin velvety soft and glowing.\n\n2. **Hydration:** Replenish your skin's moisture balance with our nourishing hydration treatments. Luxurious oils and creams infused with potent antioxidants and vitamins are expertly massaged into your skin, restoring vitality and suppleness while promoting cellular renewal.\n\n3. **Massage:** Drift into a state of bliss as our skilled therapists indulge your senses with a soothing massage. Tailored to your preferences, our massages melt away tension and stress, promoting relaxation and enhancing the overall well-being of your body and mind.\n\n4. **Finishing Touches:** Complete your body polishing experience with a lavish application of hydrating body butter or oil, leaving your skin enveloped in a delicate veil of silkiness. Revel in the sensation of silky-smooth skin and bask in the glow of your rejuvenated complexion.\n\n**Benefits:**\n\n- **Radiant Skin:** Say goodbye to dullness and hello to luminosity as our Body Polishing service unveils your skin's natural radiance.\n- **Deep Hydration:** Replenish moisture levels and restore vitality to your skin with our nourishing hydration treatments.\n- **Stress Relief:** Indulge in a moment of relaxation and tranquility with our soothing massage techniques, designed to melt away tension and promote overall well-being.\n- **Silky Smooth Texture:** Experience the luxurious sensation of velvety soft skin, courtesy of our expert exfoliation and moisturizing rituals.\n\n**Treat yourself to the ultimate indulgence with our Body Polishing service and discover the transformative power of radiant, luminous skin. Book your appointment today and embark on a journey to rejuvenation and renewal.** \n view more \n Massage \n \"Indulge in a world of relaxation with our premier massage service, tailored to elevate your mind, body, and spirit. Our skilled therapists blend ancient techniques with modern expertise to provide you with a rejuvenating experience like no other.\n\nEmbark on a journey of tranquility as our therapists work their magic, easing tension and soothing tired muscles with expert precision. Choose from a variety of massage styles, including Swedish, deep tissue, hot stone, aromatherapy, and more, each designed to address your specific needs and preferences.\n\nStep into our serene oasis, where every detail is crafted to enhance your comfort and well-being. Let the gentle music, calming aromas, and plush surroundings transport you to a state of blissful relaxation. Whether you seek relief from stress, muscle soreness, or simply crave a moment of pampering, our massage service promises to leave you feeling refreshed, renewed, and revitalized.\n\nExperience the ultimate in relaxation and wellness with our exceptional massage service. Book your appointment today and treat yourself to the luxury you deserve.\" \n read more \n WOMEN HAIR COLOR \n Description:\n\nWelcome to The Mirror Salon, where we believe every woman deserves to shine with confidence. Our hair color services are designed to bring out the best in you, enhancing your natural beauty and style. Whether you're looking for a subtle change or a bold transformation, our expert stylists are here to make your vision a reality.\n\nHighlights of our Hair Color Services:\n\n1. **Custom Consultation**: Before any color service, we offer a personalized consultation to understand your preferences, lifestyle, and hair goals. This ensures that we tailor the color to suit you perfectly.\n\n2. **Professional Expertise**: Our team of skilled colorists stays updated with the latest trends and techniques in hair coloring. You can trust us to deliver high-quality results every time.\n\n3. **Wide Range of Options**: From vibrant hues to soft, natural tones, we offer a comprehensive range of color options to suit every taste and complexion.\n\n4. **Custom Blending**: We specialize in custom blending techniques to create a unique color that complements your skin tone and enhances your features.\n\n5. **Damage-Free Formulas**: We prioritize the health of your hair, using gentle, ammonia-free formulas that minimize damage and maintain the integrity of your strands.\n\n6. **Color Correction**: If you're unhappy with a previous color treatment or need a correction, our color experts can help you achieve the desired result safely and effectively.\n\n7. **Long-Lasting Results**: We use top-quality color products that ensure your color stays vibrant and beautiful for as long as possible, with minimal fading.\n\n8. **Aftercare Advice**: To help you maintain your color between salon visits, we provide personalized aftercare advice and recommend professional-grade products to keep your hair healthy and vibrant.\n\nAt The Mirror Salon, we're passionate about helping you look and feel your best. Trust us to bring out the true beauty of your hair with our exceptional color services. Schedule your appointment today and let us transform your look! \n read more \n WOMEN HAIR CUT \n At The Mirror Salon, our Women's Hair Cut service is designed to elevate your style and accentuate your natural beauty. Our experienced stylists are adept at creating personalized cuts tailored to your unique preferences and features. Whether you're looking for a bold new look or a subtle refresh, we're here to bring your vision to life. From trendy bob cuts to classic layers, we offer a diverse range of styles to suit every taste. With attention to detail and precision, we ensure that each cut complements your face shape and enhances your overall look. Step into The Mirror Salon and let us transform your hair into a masterpiece of style and sophistication. \n read more \n Previous \n Next \n Explore \n Our gallery \n \u2728\u00a0Transform Your Look with Stunning Highlights!\u00a0\u2728 ... \n view Update \n all Updates \n Owner&apos;s Info \n Ask Us Anything \n send Message \n &#xd7; \n Contact Us \n Close \n &#xd7; \n THE MIRRORR Unisex Hair & Beauty Studio \n The Mirror Unisex Hair & Beauty Salon is a premier destination in Bangalore, renowned for its expertise in hairstyling and beauty services. With a focus on personalized attention and meticulous detail, our seasoned professionals provide a diverse range of services, including haircuts, coloring, facials, and massages. We prioritize client satisfaction and foster a welcoming environment where everyone feels valued. Committed to holistic wellness and sustainability, we offer eco-friendly practices and holistic treatments to nourish the body, mind, and soul. Experience luxury and sophistication at The Mirror, where beauty meets excellence in every aspect of service. \n Close \n &#xd7; \n Close \n https://themirrorrunisexhairbeautysalon.nowfloats.com \n Reach Us \n B. NO. 64, 1st Floor, Vinayaka nagara, Hosa Rd, near SOBHA SILICON OASIS, Doddanagamangala Village, Naganathapura, Bengaluru, Karnataka 560100 \n +918088323885 \n +918088323885 \n themirrorr2024@gmail.com \n Recently Updated services \n body polishing service in hosa road \n body polishing service in bangalore \n body polishing serivece in praghathi nagar \n massage service in hosa raad \n best salon in hosa road \n Subscribe to our updates \n Send \n Share Us On \n Report Abuse \n &#xa0;&#x2022;&#xa0; \n Sitemap \n &#xd7; \n Subscribe \n Close \n #3E68FF \n Book Appointment \n No Services available for booking. \n Select Staff \n AnyBody \n Services \n Select date and time \n Morning \n Appointment Slot Unavailable \n Afternoon \n Appointment Slot Unavailable \n Evening \n Appointment Slot Unavailable \n Night \n Appointment Slot Unavailable \n Appointment Slot Unavailable \n Close \n Done \n services \n &#x2716; \n True \n True \n Bridal season sale \n &#x20b9;20 OFF on Bridal makeup \n View Service \n Offer Description \n Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. \n Home \n Services \n Contact \n Menu \n About \n Service \n Updates \n Gallery \n &#x25bc; \n Photos \n Contact \n More \n https://themirrorrunisexhairbeautysalon.nowfloats.com \n https://themirrorrunisexhairbeautysalon.nowfloats.com/mapview/12-818598022474724/77-74761579415772 \n https://themirrorrunisexhairbeautysalon.nowfloats.com/all-services/1 \n 5b34bd254030c804fbbd8414 \n 660806b8a63900ef8a46a4ef \n 660806b8a63900ef8a46a4ef \n THEMIRRORRUNISEXHAIRBEAUTYSALON"
+  },
+  "services": {
+    "women-hair-cut": {
+      "title": "WOMEN HAIR CUT | THE MIRRORR Unisex Hair & Beauty Studio",
+      "meta_desc": "Services in Bangalore, India from THE MIRRORR Unisex Hair & Beauty Studio",
+      "images": [
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/service/email.png?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/service/white-search.png?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/service/search.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "https://fplogoimages.withfloats.com/actual/674c2a177110729fc951cfef.jpg",
+          "alt": "logo"
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/preview.png?v=267",
+          "alt": "Preview"
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/wa-icon.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/patterns/clock.png?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/patterns/clock.png?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/patterns/clock.png?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/user.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/morning.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/afternoon.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/evening.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/night.svg?v=267",
+          "alt": ""
+        }
+      ],
+      "text_sample": [
+        "WOMEN HAIR CUT | THE MIRRORR Unisex Hair & Beauty Studio",
+        ",91,8088323885",
+        "91,[\n  {\n    \"createdon\": \"2024-12-03T14:19:23.567Z\",\n    \"updatedon\": \"2024-12-03T14:19:23.567Z\",\n    \"_parentClassId\": \"660806b82e5dc8173c5b1024\",\n    \"_parentClassName\": \"business\",\n    \"_propertyName\": \"contacts\",\n    \"_kid\": \"674f136b920f9fac0d27d3dd\",\n    \"websiteid\": \"660806b8a63900ef8a46a4ef\",\n    \"isarchived\": false,\n    \"contacttype\": \"\",\n    \"contactnumber\": \"8088323885\"\n  },\n  {\n    \"createdon\": \"2024-12-03T14:19:23.567Z\",\n    \"updatedon\": \"2024-12-03T14:19:23.567Z\",\n    \"_parentClassId\": \"660806b82e5dc8173c5b1024\",\n    \"_parentClassName\": \"business\",\n    \"_propertyName\": \"contacts\",\n    \"_kid\": \"674f136b920f9fac0d27d3dc\",\n    \"websiteid\": \"660806b8a63900ef8a46a4ef\",\n    \"isarchived\": false,\n    \"contacttype\": \"\",\n    \"contactnumber\": \"8088323885\"\n  }\n]",
+        "&#xa0;",
+        "themirrorr2024@gmail.com",
+        "+918088323885",
+        "Toggle navigation",
+        "Book Appointment",
+        "0",
+        "Home",
+        "About",
+        "Services",
+        "Body Polishing",
+        "Massage",
+        "WOMEN HAIR COLOR",
+        "WOMEN HAIR CUT",
+        "Updates",
+        "Gallery",
+        "Photos",
+        "More",
+        "Hair Spa in hosa",
+        "...",
+        "FAMOUS SALON IN H",
+        "...",
+        "\u200bBEST SALON IN HO",
+        "...",
+        "WOMEN HAIR COLOR",
+        "...",
+        "Contact",
+        "Book Appointment",
+        "0",
+        "Updates",
+        "Search",
+        "THE MIRRORR Unisex Hair & Beauty Studio",
+        "Services",
+        "+918088323885",
+        "This is your website preview.",
+        "Currently it only shows your basic business info. Start adding relevant business details such as description, images and products or services to gain your customers attention by using Boost 360",
+        "android app",
+        "/",
+        "iOS App",
+        "/",
+        "web portal",
+        ".",
+        "I UNDERSTAND",
+        "918088323885",
+        "Chat with us",
+        "&#xa0;",
+        "Chat with us on WhatsApp",
+        "&#xd7;",
+        "Start Chatting",
+        "WOMEN HAIR CUT",
+        "Home",
+        "services",
+        "WOMEN HAIR CUT",
+        "Home",
+        "services",
+        "WOMEN HAIR",
+        "WOMEN HAIR CUT",
+        "by",
+        "THE MIRRORR Unisex Hair & Beauty Studio",
+        "WOMEN HAIR CUT",
+        "Duration:",
+        "0 min",
+        "&#x20b9;",
+        "0",
+        "Send Enquiry",
+        "Share:",
+        "Description",
+        "At The Mirror Salon, our Women's Hair Cut service is designed to elevate your style and accentuate your natural beauty. Our experienced stylists are adept at creating personalized cuts tailored to your unique preferences and features. Whether you're looking for a bold new look or a subtle refresh, we're here to bring your vision to life. From trendy bob cuts to classic layers, we offer a diverse range of styles to suit every taste. With attention to detail and precision, we ensure that each cut complements your face shape and enhances your overall look. Step into The Mirror Salon and let us transform your hair into a masterpiece of style and sophistication.",
+        "Tags:",
+        "WOMEN HAIR CUT SALON IN HOSA ROAD",
+        "WOMEN HAIR CUT SALON IN BANGALORE",
+        "WOMEN HAIR CUT SALON IN KARNATAKA",
+        "WOMEN HAIR CUT SALON IN PRAGATHI NAGAR",
+        "WOMEN HAIR CUT SALON IN  PARAPPANA AGRAHARA",
+        "Active Staffs",
+        "4.5",
+        "Very Good Service",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "Reema Biswas",
+        "4 Oct 2020",
+        "5",
+        "Polite Staffs",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "Priyanka Singh",
+        "4 Nov 2020",
+        "More Rreviews",
+        "Related Services",
+        "Body Polishing",
+        "&#xa0;",
+        "0 min",
+        "&#x20b9;",
+        "0",
+        "&#x20b9;0",
+        "Send Enquiry",
+        "Massage",
+        "&#xa0;",
+        "0 min",
+        "&#x20b9;"
+      ],
+      "all_text": "WOMEN HAIR CUT | THE MIRRORR Unisex Hair & Beauty Studio \n ,91,8088323885 \n 91,[\n  {\n    \"createdon\": \"2024-12-03T14:19:23.567Z\",\n    \"updatedon\": \"2024-12-03T14:19:23.567Z\",\n    \"_parentClassId\": \"660806b82e5dc8173c5b1024\",\n    \"_parentClassName\": \"business\",\n    \"_propertyName\": \"contacts\",\n    \"_kid\": \"674f136b920f9fac0d27d3dd\",\n    \"websiteid\": \"660806b8a63900ef8a46a4ef\",\n    \"isarchived\": false,\n    \"contacttype\": \"\",\n    \"contactnumber\": \"8088323885\"\n  },\n  {\n    \"createdon\": \"2024-12-03T14:19:23.567Z\",\n    \"updatedon\": \"2024-12-03T14:19:23.567Z\",\n    \"_parentClassId\": \"660806b82e5dc8173c5b1024\",\n    \"_parentClassName\": \"business\",\n    \"_propertyName\": \"contacts\",\n    \"_kid\": \"674f136b920f9fac0d27d3dc\",\n    \"websiteid\": \"660806b8a63900ef8a46a4ef\",\n    \"isarchived\": false,\n    \"contacttype\": \"\",\n    \"contactnumber\": \"8088323885\"\n  }\n] \n &#xa0; \n themirrorr2024@gmail.com \n +918088323885 \n Toggle navigation \n Book Appointment \n 0 \n Home \n About \n Services \n Body Polishing \n Massage \n WOMEN HAIR COLOR \n WOMEN HAIR CUT \n Updates \n Gallery \n Photos \n More \n Hair Spa in hosa \n ... \n FAMOUS SALON IN H \n ... \n \u200bBEST SALON IN HO \n ... \n WOMEN HAIR COLOR \n ... \n Contact \n Book Appointment \n 0 \n Updates \n Search \n THE MIRRORR Unisex Hair & Beauty Studio \n Services \n +918088323885 \n This is your website preview. \n Currently it only shows your basic business info. Start adding relevant business details such as description, images and products or services to gain your customers attention by using Boost 360 \n android app \n / \n iOS App \n / \n web portal \n . \n I UNDERSTAND \n 918088323885 \n Chat with us \n &#xa0; \n Chat with us on WhatsApp \n &#xd7; \n Start Chatting \n WOMEN HAIR CUT \n Home \n services \n WOMEN HAIR CUT \n Home \n services \n WOMEN HAIR \n WOMEN HAIR CUT \n by \n THE MIRRORR Unisex Hair & Beauty Studio \n WOMEN HAIR CUT \n Duration: \n 0 min \n &#x20b9; \n 0 \n Send Enquiry \n Share: \n Description \n At The Mirror Salon, our Women's Hair Cut service is designed to elevate your style and accentuate your natural beauty. Our experienced stylists are adept at creating personalized cuts tailored to your unique preferences and features. Whether you're looking for a bold new look or a subtle refresh, we're here to bring your vision to life. From trendy bob cuts to classic layers, we offer a diverse range of styles to suit every taste. With attention to detail and precision, we ensure that each cut complements your face shape and enhances your overall look. Step into The Mirror Salon and let us transform your hair into a masterpiece of style and sophistication. \n Tags: \n WOMEN HAIR CUT SALON IN HOSA ROAD \n WOMEN HAIR CUT SALON IN BANGALORE \n WOMEN HAIR CUT SALON IN KARNATAKA \n WOMEN HAIR CUT SALON IN PRAGATHI NAGAR \n WOMEN HAIR CUT SALON IN  PARAPPANA AGRAHARA \n Active Staffs \n 4.5 \n Very Good Service \n Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n Reema Biswas \n 4 Oct 2020 \n 5 \n Polite Staffs \n Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n Priyanka Singh \n 4 Nov 2020 \n More Rreviews \n Related Services \n Body Polishing \n &#xa0; \n 0 min \n &#x20b9; \n 0 \n &#x20b9;0 \n Send Enquiry \n Massage \n &#xa0; \n 0 min \n &#x20b9; \n 0 \n &#x20b9;0 \n Send Enquiry \n WOMEN HAIR COLOR \n &#xa0; \n 0 min \n &#x20b9; \n 0 \n &#x20b9;0 \n Send Enquiry \n https://themirrorrunisexhairbeautysalon.nowfloats.com \n Reach Us \n B. NO. 64, 1st Floor, Vinayaka nagara, Hosa Rd, near SOBHA SILICON OASIS, Doddanagamangala Village, Naganathapura, Bengaluru, Karnataka 560100 \n +918088323885 \n +918088323885 \n themirrorr2024@gmail.com \n Recently Updated services \n body polishing service in hosa road \n body polishing service in bangalore \n body polishing serivece in praghathi nagar \n massage service in hosa raad \n best salon in hosa road \n Subscribe to our updates \n Send \n Share Us On \n Report Abuse \n &#xa0;&#x2022;&#xa0; \n Sitemap \n &#xd7; \n Subscribe \n Close \n #3E68FF \n Book Appointment \n No Services available for booking. \n Select Staff \n AnyBody \n Services \n Select date and time \n Morning \n Appointment Slot Unavailable \n Afternoon \n Appointment Slot Unavailable \n Evening \n Appointment Slot Unavailable \n Night \n Appointment Slot Unavailable \n Appointment Slot Unavailable \n Close \n Done \n services \n &#x2716; \n True \n True \n 5b34bd254030c804fbbd8414 \n 660806b8a63900ef8a46a4ef \n 660806b8a63900ef8a46a4ef \n THEMIRRORRUNISEXHAIRBEAUTYSALON"
+    },
+    "women-hair-color": {
+      "title": "WOMEN HAIR COLOR | THE MIRRORR Unisex Hair & Beauty Studio",
+      "meta_desc": "Services in Bangalore, India from THE MIRRORR Unisex Hair & Beauty Studio",
+      "images": [
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/service/email.png?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/service/white-search.png?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/service/search.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "https://fplogoimages.withfloats.com/actual/674c2a177110729fc951cfef.jpg",
+          "alt": "logo"
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/preview.png?v=267",
+          "alt": "Preview"
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/wa-icon.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/patterns/clock.png?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/patterns/clock.png?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/patterns/clock.png?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/user.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/morning.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/afternoon.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/evening.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/night.svg?v=267",
+          "alt": ""
+        }
+      ],
+      "text_sample": [
+        "WOMEN HAIR COLOR | THE MIRRORR Unisex Hair & Beauty Studio",
+        ",91,8088323885",
+        "91,[\n  {\n    \"createdon\": \"2024-12-03T14:19:23.567Z\",\n    \"updatedon\": \"2024-12-03T14:19:23.567Z\",\n    \"_parentClassId\": \"660806b82e5dc8173c5b1024\",\n    \"_parentClassName\": \"business\",\n    \"_propertyName\": \"contacts\",\n    \"_kid\": \"674f136b920f9fac0d27d3dd\",\n    \"websiteid\": \"660806b8a63900ef8a46a4ef\",\n    \"isarchived\": false,\n    \"contacttype\": \"\",\n    \"contactnumber\": \"8088323885\"\n  },\n  {\n    \"createdon\": \"2024-12-03T14:19:23.567Z\",\n    \"updatedon\": \"2024-12-03T14:19:23.567Z\",\n    \"_parentClassId\": \"660806b82e5dc8173c5b1024\",\n    \"_parentClassName\": \"business\",\n    \"_propertyName\": \"contacts\",\n    \"_kid\": \"674f136b920f9fac0d27d3dc\",\n    \"websiteid\": \"660806b8a63900ef8a46a4ef\",\n    \"isarchived\": false,\n    \"contacttype\": \"\",\n    \"contactnumber\": \"8088323885\"\n  }\n]",
+        "&#xa0;",
+        "themirrorr2024@gmail.com",
+        "+918088323885",
+        "Toggle navigation",
+        "Book Appointment",
+        "0",
+        "Home",
+        "About",
+        "Services",
+        "Body Polishing",
+        "Massage",
+        "WOMEN HAIR COLOR",
+        "WOMEN HAIR CUT",
+        "Updates",
+        "Gallery",
+        "Photos",
+        "More",
+        "Hair Spa in hosa",
+        "...",
+        "FAMOUS SALON IN H",
+        "...",
+        "\u200bBEST SALON IN HO",
+        "...",
+        "WOMEN HAIR COLOR",
+        "...",
+        "Contact",
+        "Book Appointment",
+        "0",
+        "Updates",
+        "Search",
+        "THE MIRRORR Unisex Hair & Beauty Studio",
+        "Services",
+        "+918088323885",
+        "This is your website preview.",
+        "Currently it only shows your basic business info. Start adding relevant business details such as description, images and products or services to gain your customers attention by using Boost 360",
+        "android app",
+        "/",
+        "iOS App",
+        "/",
+        "web portal",
+        ".",
+        "I UNDERSTAND",
+        "918088323885",
+        "Chat with us",
+        "&#xa0;",
+        "Chat with us on WhatsApp",
+        "&#xd7;",
+        "Start Chatting",
+        "WOMEN HAIR COLOR",
+        "Home",
+        "services",
+        "WOMEN HAIR COLOR",
+        "Home",
+        "services",
+        "WOMEN HAIR",
+        "WOMEN HAIR COLOR",
+        "by",
+        "THE MIRRORR Unisex Hair & Beauty Studio",
+        "WOMEN HAIR COLOR",
+        "Duration:",
+        "0 min",
+        "&#x20b9;",
+        "0",
+        "Send Enquiry",
+        "Share:",
+        "Description",
+        "Description:\n\nWelcome to The Mirror Salon, where we believe every woman deserves to shine with confidence. Our hair color services are designed to bring out the best in you, enhancing your natural beauty and style. Whether you're looking for a subtle change or a bold transformation, our expert stylists are here to make your vision a reality.\n\nHighlights of our Hair Color Services:\n\n1. **Custom Consultation**: Before any color service, we offer a personalized consultation to understand your preferences, lifestyle, and hair goals. This ensures that we tailor the color to suit you perfectly.\n\n2. **Professional Expertise**: Our team of skilled colorists stays updated with the latest trends and techniques in hair coloring. You can trust us to deliver high-quality results every time.\n\n3. **Wide Range of Options**: From vibrant hues to soft, natural tones, we offer a comprehensive range of color options to suit every taste and complexion.\n\n4. **Custom Blending**: We specialize in custom blending techniques to create a unique color that complements your skin tone and enhances your features.\n\n5. **Damage-Free Formulas**: We prioritize the health of your hair, using gentle, ammonia-free formulas that minimize damage and maintain the integrity of your strands.\n\n6. **Color Correction**: If you're unhappy with a previous color treatment or need a correction, our color experts can help you achieve the desired result safely and effectively.\n\n7. **Long-Lasting Results**: We use top-quality color products that ensure your color stays vibrant and beautiful for as long as possible, with minimal fading.\n\n8. **Aftercare Advice**: To help you maintain your color between salon visits, we provide personalized aftercare advice and recommend professional-grade products to keep your hair healthy and vibrant.\n\nAt The Mirror Salon, we're passionate about helping you look and feel your best. Trust us to bring out the true beauty of your hair with our exceptional color services. Schedule your appointment today and let us transform your look!",
+        "Tags:",
+        "WOMEN HAIR COLOR SALON IN HOSA ROAD",
+        "WOMEN HAIR COLOR SALON IN PRAGATHI NAGAR",
+        "WOMEN HAIR COLOR SALON IN BANAGALORE",
+        "WOMEN HAIR COLOR SALON IN KARNATAKA",
+        "WOMEN HAIR COLOR SALON IN ELLECTRONIC CITY",
+        "Active Staffs",
+        "4.5",
+        "Very Good Service",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "Reema Biswas",
+        "4 Oct 2020",
+        "5",
+        "Polite Staffs",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "Priyanka Singh",
+        "4 Nov 2020",
+        "More Rreviews",
+        "Related Services",
+        "Body Polishing",
+        "&#xa0;",
+        "0 min",
+        "&#x20b9;",
+        "0",
+        "&#x20b9;0",
+        "Send Enquiry",
+        "Massage",
+        "&#xa0;",
+        "0 min",
+        "&#x20b9;"
+      ],
+      "all_text": "WOMEN HAIR COLOR | THE MIRRORR Unisex Hair & Beauty Studio \n ,91,8088323885 \n 91,[\n  {\n    \"createdon\": \"2024-12-03T14:19:23.567Z\",\n    \"updatedon\": \"2024-12-03T14:19:23.567Z\",\n    \"_parentClassId\": \"660806b82e5dc8173c5b1024\",\n    \"_parentClassName\": \"business\",\n    \"_propertyName\": \"contacts\",\n    \"_kid\": \"674f136b920f9fac0d27d3dd\",\n    \"websiteid\": \"660806b8a63900ef8a46a4ef\",\n    \"isarchived\": false,\n    \"contacttype\": \"\",\n    \"contactnumber\": \"8088323885\"\n  },\n  {\n    \"createdon\": \"2024-12-03T14:19:23.567Z\",\n    \"updatedon\": \"2024-12-03T14:19:23.567Z\",\n    \"_parentClassId\": \"660806b82e5dc8173c5b1024\",\n    \"_parentClassName\": \"business\",\n    \"_propertyName\": \"contacts\",\n    \"_kid\": \"674f136b920f9fac0d27d3dc\",\n    \"websiteid\": \"660806b8a63900ef8a46a4ef\",\n    \"isarchived\": false,\n    \"contacttype\": \"\",\n    \"contactnumber\": \"8088323885\"\n  }\n] \n &#xa0; \n themirrorr2024@gmail.com \n +918088323885 \n Toggle navigation \n Book Appointment \n 0 \n Home \n About \n Services \n Body Polishing \n Massage \n WOMEN HAIR COLOR \n WOMEN HAIR CUT \n Updates \n Gallery \n Photos \n More \n Hair Spa in hosa \n ... \n FAMOUS SALON IN H \n ... \n \u200bBEST SALON IN HO \n ... \n WOMEN HAIR COLOR \n ... \n Contact \n Book Appointment \n 0 \n Updates \n Search \n THE MIRRORR Unisex Hair & Beauty Studio \n Services \n +918088323885 \n This is your website preview. \n Currently it only shows your basic business info. Start adding relevant business details such as description, images and products or services to gain your customers attention by using Boost 360 \n android app \n / \n iOS App \n / \n web portal \n . \n I UNDERSTAND \n 918088323885 \n Chat with us \n &#xa0; \n Chat with us on WhatsApp \n &#xd7; \n Start Chatting \n WOMEN HAIR COLOR \n Home \n services \n WOMEN HAIR COLOR \n Home \n services \n WOMEN HAIR \n WOMEN HAIR COLOR \n by \n THE MIRRORR Unisex Hair & Beauty Studio \n WOMEN HAIR COLOR \n Duration: \n 0 min \n &#x20b9; \n 0 \n Send Enquiry \n Share: \n Description \n Description:\n\nWelcome to The Mirror Salon, where we believe every woman deserves to shine with confidence. Our hair color services are designed to bring out the best in you, enhancing your natural beauty and style. Whether you're looking for a subtle change or a bold transformation, our expert stylists are here to make your vision a reality.\n\nHighlights of our Hair Color Services:\n\n1. **Custom Consultation**: Before any color service, we offer a personalized consultation to understand your preferences, lifestyle, and hair goals. This ensures that we tailor the color to suit you perfectly.\n\n2. **Professional Expertise**: Our team of skilled colorists stays updated with the latest trends and techniques in hair coloring. You can trust us to deliver high-quality results every time.\n\n3. **Wide Range of Options**: From vibrant hues to soft, natural tones, we offer a comprehensive range of color options to suit every taste and complexion.\n\n4. **Custom Blending**: We specialize in custom blending techniques to create a unique color that complements your skin tone and enhances your features.\n\n5. **Damage-Free Formulas**: We prioritize the health of your hair, using gentle, ammonia-free formulas that minimize damage and maintain the integrity of your strands.\n\n6. **Color Correction**: If you're unhappy with a previous color treatment or need a correction, our color experts can help you achieve the desired result safely and effectively.\n\n7. **Long-Lasting Results**: We use top-quality color products that ensure your color stays vibrant and beautiful for as long as possible, with minimal fading.\n\n8. **Aftercare Advice**: To help you maintain your color between salon visits, we provide personalized aftercare advice and recommend professional-grade products to keep your hair healthy and vibrant.\n\nAt The Mirror Salon, we're passionate about helping you look and feel your best. Trust us to bring out the true beauty of your hair with our exceptional color services. Schedule your appointment today and let us transform your look! \n Tags: \n WOMEN HAIR COLOR SALON IN HOSA ROAD \n WOMEN HAIR COLOR SALON IN PRAGATHI NAGAR \n WOMEN HAIR COLOR SALON IN BANAGALORE \n WOMEN HAIR COLOR SALON IN KARNATAKA \n WOMEN HAIR COLOR SALON IN ELLECTRONIC CITY \n Active Staffs \n 4.5 \n Very Good Service \n Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n Reema Biswas \n 4 Oct 2020 \n 5 \n Polite Staffs \n Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n Priyanka Singh \n 4 Nov 2020 \n More Rreviews \n Related Services \n Body Polishing \n &#xa0; \n 0 min \n &#x20b9; \n 0 \n &#x20b9;0 \n Send Enquiry \n Massage \n &#xa0; \n 0 min \n &#x20b9; \n 0 \n &#x20b9;0 \n Send Enquiry \n WOMEN HAIR COLOR \n &#xa0; \n 0 min \n &#x20b9; \n 0 \n &#x20b9;0 \n Send Enquiry \n https://themirrorrunisexhairbeautysalon.nowfloats.com \n Reach Us \n B. NO. 64, 1st Floor, Vinayaka nagara, Hosa Rd, near SOBHA SILICON OASIS, Doddanagamangala Village, Naganathapura, Bengaluru, Karnataka 560100 \n +918088323885 \n +918088323885 \n themirrorr2024@gmail.com \n Recently Updated services \n body polishing service in hosa road \n body polishing service in bangalore \n body polishing serivece in praghathi nagar \n massage service in hosa raad \n best salon in hosa road \n Subscribe to our updates \n Send \n Share Us On \n Report Abuse \n &#xa0;&#x2022;&#xa0; \n Sitemap \n &#xd7; \n Subscribe \n Close \n #3E68FF \n Book Appointment \n No Services available for booking. \n Select Staff \n AnyBody \n Services \n Select date and time \n Morning \n Appointment Slot Unavailable \n Afternoon \n Appointment Slot Unavailable \n Evening \n Appointment Slot Unavailable \n Night \n Appointment Slot Unavailable \n Appointment Slot Unavailable \n Close \n Done \n services \n &#x2716; \n True \n True \n 5b34bd254030c804fbbd8414 \n 660806b8a63900ef8a46a4ef \n 660806b8a63900ef8a46a4ef \n THEMIRRORRUNISEXHAIRBEAUTYSALON"
+    },
+    "massage": {
+      "title": "Massage | THE MIRRORR Unisex Hair & Beauty Studio",
+      "meta_desc": "Services in Bangalore, India from THE MIRRORR Unisex Hair & Beauty Studio",
+      "images": [
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/service/email.png?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/service/white-search.png?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/service/search.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "https://fplogoimages.withfloats.com/actual/674c2a177110729fc951cfef.jpg",
+          "alt": "logo"
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/preview.png?v=267",
+          "alt": "Preview"
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/wa-icon.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/patterns/clock.png?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/patterns/clock.png?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/patterns/clock.png?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/user.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/morning.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/afternoon.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/evening.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/night.svg?v=267",
+          "alt": ""
+        }
+      ],
+      "text_sample": [
+        "Massage | THE MIRRORR Unisex Hair & Beauty Studio",
+        ",91,8088323885",
+        "91,[\n  {\n    \"createdon\": \"2024-12-03T14:19:23.567Z\",\n    \"updatedon\": \"2024-12-03T14:19:23.567Z\",\n    \"_parentClassId\": \"660806b82e5dc8173c5b1024\",\n    \"_parentClassName\": \"business\",\n    \"_propertyName\": \"contacts\",\n    \"_kid\": \"674f136b920f9fac0d27d3dd\",\n    \"websiteid\": \"660806b8a63900ef8a46a4ef\",\n    \"isarchived\": false,\n    \"contacttype\": \"\",\n    \"contactnumber\": \"8088323885\"\n  },\n  {\n    \"createdon\": \"2024-12-03T14:19:23.567Z\",\n    \"updatedon\": \"2024-12-03T14:19:23.567Z\",\n    \"_parentClassId\": \"660806b82e5dc8173c5b1024\",\n    \"_parentClassName\": \"business\",\n    \"_propertyName\": \"contacts\",\n    \"_kid\": \"674f136b920f9fac0d27d3dc\",\n    \"websiteid\": \"660806b8a63900ef8a46a4ef\",\n    \"isarchived\": false,\n    \"contacttype\": \"\",\n    \"contactnumber\": \"8088323885\"\n  }\n]",
+        "&#xa0;",
+        "themirrorr2024@gmail.com",
+        "+918088323885",
+        "Toggle navigation",
+        "Book Appointment",
+        "0",
+        "Home",
+        "About",
+        "Services",
+        "Body Polishing",
+        "Massage",
+        "WOMEN HAIR COLOR",
+        "WOMEN HAIR CUT",
+        "Updates",
+        "Gallery",
+        "Photos",
+        "More",
+        "Hair Spa in hosa",
+        "...",
+        "FAMOUS SALON IN H",
+        "...",
+        "\u200bBEST SALON IN HO",
+        "...",
+        "WOMEN HAIR COLOR",
+        "...",
+        "Contact",
+        "Book Appointment",
+        "0",
+        "Updates",
+        "Search",
+        "THE MIRRORR Unisex Hair & Beauty Studio",
+        "Services",
+        "+918088323885",
+        "This is your website preview.",
+        "Currently it only shows your basic business info. Start adding relevant business details such as description, images and products or services to gain your customers attention by using Boost 360",
+        "android app",
+        "/",
+        "iOS App",
+        "/",
+        "web portal",
+        ".",
+        "I UNDERSTAND",
+        "918088323885",
+        "Chat with us",
+        "&#xa0;",
+        "Chat with us on WhatsApp",
+        "&#xd7;",
+        "Start Chatting",
+        "Massage",
+        "Home",
+        "services",
+        "Massage",
+        "Home",
+        "services",
+        "Massage",
+        "Massage",
+        "by",
+        "THE MIRRORR Unisex Hair & Beauty Studio",
+        "Massage",
+        "Duration:",
+        "0 min",
+        "&#x20b9;",
+        "0",
+        "Send Enquiry",
+        "Share:",
+        "Description",
+        "\"Indulge in a world of relaxation with our premier massage service, tailored to elevate your mind, body, and spirit. Our skilled therapists blend ancient techniques with modern expertise to provide you with a rejuvenating experience like no other.\n\nEmbark on a journey of tranquility as our therapists work their magic, easing tension and soothing tired muscles with expert precision. Choose from a variety of massage styles, including Swedish, deep tissue, hot stone, aromatherapy, and more, each designed to address your specific needs and preferences.\n\nStep into our serene oasis, where every detail is crafted to enhance your comfort and well-being. Let the gentle music, calming aromas, and plush surroundings transport you to a state of blissful relaxation. Whether you seek relief from stress, muscle soreness, or simply crave a moment of pampering, our massage service promises to leave you feeling refreshed, renewed, and revitalized.\n\nExperience the ultimate in relaxation and wellness with our exceptional massage service. Book your appointment today and treat yourself to the luxury you deserve.\"",
+        "Tags:",
+        "Massage service in Hosa Raad",
+        "best salon in Hosa Road",
+        "famous salon in hosa road",
+        "head massage center in hosa road",
+        "best massage center in bangalore",
+        "Active Staffs",
+        "4.5",
+        "Very Good Service",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "Reema Biswas",
+        "4 Oct 2020",
+        "5",
+        "Polite Staffs",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "Priyanka Singh",
+        "4 Nov 2020",
+        "More Rreviews",
+        "Related Services",
+        "Body Polishing",
+        "&#xa0;",
+        "0 min",
+        "&#x20b9;",
+        "0",
+        "&#x20b9;0",
+        "Send Enquiry",
+        "Massage",
+        "&#xa0;",
+        "0 min",
+        "&#x20b9;"
+      ],
+      "all_text": "Massage | THE MIRRORR Unisex Hair & Beauty Studio \n ,91,8088323885 \n 91,[\n  {\n    \"createdon\": \"2024-12-03T14:19:23.567Z\",\n    \"updatedon\": \"2024-12-03T14:19:23.567Z\",\n    \"_parentClassId\": \"660806b82e5dc8173c5b1024\",\n    \"_parentClassName\": \"business\",\n    \"_propertyName\": \"contacts\",\n    \"_kid\": \"674f136b920f9fac0d27d3dd\",\n    \"websiteid\": \"660806b8a63900ef8a46a4ef\",\n    \"isarchived\": false,\n    \"contacttype\": \"\",\n    \"contactnumber\": \"8088323885\"\n  },\n  {\n    \"createdon\": \"2024-12-03T14:19:23.567Z\",\n    \"updatedon\": \"2024-12-03T14:19:23.567Z\",\n    \"_parentClassId\": \"660806b82e5dc8173c5b1024\",\n    \"_parentClassName\": \"business\",\n    \"_propertyName\": \"contacts\",\n    \"_kid\": \"674f136b920f9fac0d27d3dc\",\n    \"websiteid\": \"660806b8a63900ef8a46a4ef\",\n    \"isarchived\": false,\n    \"contacttype\": \"\",\n    \"contactnumber\": \"8088323885\"\n  }\n] \n &#xa0; \n themirrorr2024@gmail.com \n +918088323885 \n Toggle navigation \n Book Appointment \n 0 \n Home \n About \n Services \n Body Polishing \n Massage \n WOMEN HAIR COLOR \n WOMEN HAIR CUT \n Updates \n Gallery \n Photos \n More \n Hair Spa in hosa \n ... \n FAMOUS SALON IN H \n ... \n \u200bBEST SALON IN HO \n ... \n WOMEN HAIR COLOR \n ... \n Contact \n Book Appointment \n 0 \n Updates \n Search \n THE MIRRORR Unisex Hair & Beauty Studio \n Services \n +918088323885 \n This is your website preview. \n Currently it only shows your basic business info. Start adding relevant business details such as description, images and products or services to gain your customers attention by using Boost 360 \n android app \n / \n iOS App \n / \n web portal \n . \n I UNDERSTAND \n 918088323885 \n Chat with us \n &#xa0; \n Chat with us on WhatsApp \n &#xd7; \n Start Chatting \n Massage \n Home \n services \n Massage \n Home \n services \n Massage \n Massage \n by \n THE MIRRORR Unisex Hair & Beauty Studio \n Massage \n Duration: \n 0 min \n &#x20b9; \n 0 \n Send Enquiry \n Share: \n Description \n \"Indulge in a world of relaxation with our premier massage service, tailored to elevate your mind, body, and spirit. Our skilled therapists blend ancient techniques with modern expertise to provide you with a rejuvenating experience like no other.\n\nEmbark on a journey of tranquility as our therapists work their magic, easing tension and soothing tired muscles with expert precision. Choose from a variety of massage styles, including Swedish, deep tissue, hot stone, aromatherapy, and more, each designed to address your specific needs and preferences.\n\nStep into our serene oasis, where every detail is crafted to enhance your comfort and well-being. Let the gentle music, calming aromas, and plush surroundings transport you to a state of blissful relaxation. Whether you seek relief from stress, muscle soreness, or simply crave a moment of pampering, our massage service promises to leave you feeling refreshed, renewed, and revitalized.\n\nExperience the ultimate in relaxation and wellness with our exceptional massage service. Book your appointment today and treat yourself to the luxury you deserve.\" \n Tags: \n Massage service in Hosa Raad \n best salon in Hosa Road \n famous salon in hosa road \n head massage center in hosa road \n best massage center in bangalore \n Active Staffs \n 4.5 \n Very Good Service \n Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n Reema Biswas \n 4 Oct 2020 \n 5 \n Polite Staffs \n Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n Priyanka Singh \n 4 Nov 2020 \n More Rreviews \n Related Services \n Body Polishing \n &#xa0; \n 0 min \n &#x20b9; \n 0 \n &#x20b9;0 \n Send Enquiry \n Massage \n &#xa0; \n 0 min \n &#x20b9; \n 0 \n &#x20b9;0 \n Send Enquiry \n WOMEN HAIR COLOR \n &#xa0; \n 0 min \n &#x20b9; \n 0 \n &#x20b9;0 \n Send Enquiry \n https://themirrorrunisexhairbeautysalon.nowfloats.com \n Reach Us \n B. NO. 64, 1st Floor, Vinayaka nagara, Hosa Rd, near SOBHA SILICON OASIS, Doddanagamangala Village, Naganathapura, Bengaluru, Karnataka 560100 \n +918088323885 \n +918088323885 \n themirrorr2024@gmail.com \n Recently Updated services \n body polishing service in hosa road \n body polishing service in bangalore \n body polishing serivece in praghathi nagar \n massage service in hosa raad \n best salon in hosa road \n Subscribe to our updates \n Send \n Share Us On \n Report Abuse \n &#xa0;&#x2022;&#xa0; \n Sitemap \n &#xd7; \n Subscribe \n Close \n #3E68FF \n Book Appointment \n No Services available for booking. \n Select Staff \n AnyBody \n Services \n Select date and time \n Morning \n Appointment Slot Unavailable \n Afternoon \n Appointment Slot Unavailable \n Evening \n Appointment Slot Unavailable \n Night \n Appointment Slot Unavailable \n Appointment Slot Unavailable \n Close \n Done \n services \n &#x2716; \n True \n True \n 5b34bd254030c804fbbd8414 \n 660806b8a63900ef8a46a4ef \n 660806b8a63900ef8a46a4ef \n THEMIRRORRUNISEXHAIRBEAUTYSALON"
+    },
+    "body-polishing": {
+      "title": "Body Polishing | THE MIRRORR Unisex Hair & Beauty Studio",
+      "meta_desc": "Services in Bangalore, India from THE MIRRORR Unisex Hair & Beauty Studio",
+      "images": [
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/service/email.png?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/service/white-search.png?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/service/search.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "https://fplogoimages.withfloats.com/actual/674c2a177110729fc951cfef.jpg",
+          "alt": "logo"
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/preview.png?v=267",
+          "alt": "Preview"
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/wa-icon.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/patterns/clock.png?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/patterns/clock.png?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/img-preload.gif?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/patterns/clock.png?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/user.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/morning.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/afternoon.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/evening.svg?v=267",
+          "alt": ""
+        },
+        {
+          "src": "//proj.s-cdn.boostkit.dev/5b34bd254030c804fbbd8414/v267/img/night.svg?v=267",
+          "alt": ""
+        }
+      ],
+      "text_sample": [
+        "Body Polishing | THE MIRRORR Unisex Hair & Beauty Studio",
+        ",91,8088323885",
+        "91,[\n  {\n    \"createdon\": \"2024-12-03T14:19:23.567Z\",\n    \"updatedon\": \"2024-12-03T14:19:23.567Z\",\n    \"_parentClassId\": \"660806b82e5dc8173c5b1024\",\n    \"_parentClassName\": \"business\",\n    \"_propertyName\": \"contacts\",\n    \"_kid\": \"674f136b920f9fac0d27d3dd\",\n    \"websiteid\": \"660806b8a63900ef8a46a4ef\",\n    \"isarchived\": false,\n    \"contacttype\": \"\",\n    \"contactnumber\": \"8088323885\"\n  },\n  {\n    \"createdon\": \"2024-12-03T14:19:23.567Z\",\n    \"updatedon\": \"2024-12-03T14:19:23.567Z\",\n    \"_parentClassId\": \"660806b82e5dc8173c5b1024\",\n    \"_parentClassName\": \"business\",\n    \"_propertyName\": \"contacts\",\n    \"_kid\": \"674f136b920f9fac0d27d3dc\",\n    \"websiteid\": \"660806b8a63900ef8a46a4ef\",\n    \"isarchived\": false,\n    \"contacttype\": \"\",\n    \"contactnumber\": \"8088323885\"\n  }\n]",
+        "&#xa0;",
+        "themirrorr2024@gmail.com",
+        "+918088323885",
+        "Toggle navigation",
+        "Book Appointment",
+        "0",
+        "Home",
+        "About",
+        "Services",
+        "Body Polishing",
+        "Massage",
+        "WOMEN HAIR COLOR",
+        "WOMEN HAIR CUT",
+        "Updates",
+        "Gallery",
+        "Photos",
+        "More",
+        "Hair Spa in hosa",
+        "...",
+        "FAMOUS SALON IN H",
+        "...",
+        "\u200bBEST SALON IN HO",
+        "...",
+        "WOMEN HAIR COLOR",
+        "...",
+        "Contact",
+        "Book Appointment",
+        "0",
+        "Updates",
+        "Search",
+        "THE MIRRORR Unisex Hair & Beauty Studio",
+        "Services",
+        "+918088323885",
+        "This is your website preview.",
+        "Currently it only shows your basic business info. Start adding relevant business details such as description, images and products or services to gain your customers attention by using Boost 360",
+        "android app",
+        "/",
+        "iOS App",
+        "/",
+        "web portal",
+        ".",
+        "I UNDERSTAND",
+        "918088323885",
+        "Chat with us",
+        "&#xa0;",
+        "Chat with us on WhatsApp",
+        "&#xd7;",
+        "Start Chatting",
+        "Body Polishing",
+        "Home",
+        "services",
+        "Body Polishing",
+        "Home",
+        "services",
+        "Body Polis",
+        "Body Polishing",
+        "by",
+        "THE MIRRORR Unisex Hair & Beauty Studio",
+        "Body Polishing",
+        "Duration:",
+        "0 min",
+        "&#x20b9;",
+        "0",
+        "Send Enquiry",
+        "Share:",
+        "Description",
+        "Sure, here's a description for a body polishing service:\n\n---\n\n**Indulge in Luxury: Body Polishing Service**\n\nUnveil a radiant, luminous glow with our exclusive Body Polishing service, designed to pamper your skin and revitalize your senses. Our skilled therapists combine the finest ingredients with expert techniques to deliver a transformative experience that leaves your skin irresistibly smooth and radiant.\n\n**Experience the Ritual:**\n\n1. **Exfoliation:** Begin your journey to silky-smooth skin with a gentle exfoliation process that sloughs away dead skin cells, revealing the fresh, luminous skin beneath. Our exfoliating formulas are meticulously crafted to buff and refine, leaving your skin velvety soft and glowing.\n\n2. **Hydration:** Replenish your skin's moisture balance with our nourishing hydration treatments. Luxurious oils and creams infused with potent antioxidants and vitamins are expertly massaged into your skin, restoring vitality and suppleness while promoting cellular renewal.\n\n3. **Massage:** Drift into a state of bliss as our skilled therapists indulge your senses with a soothing massage. Tailored to your preferences, our massages melt away tension and stress, promoting relaxation and enhancing the overall well-being of your body and mind.\n\n4. **Finishing Touches:** Complete your body polishing experience with a lavish application of hydrating body butter or oil, leaving your skin enveloped in a delicate veil of silkiness. Revel in the sensation of silky-smooth skin and bask in the glow of your rejuvenated complexion.\n\n**Benefits:**\n\n- **Radiant Skin:** Say goodbye to dullness and hello to luminosity as our Body Polishing service unveils your skin's natural radiance.\n- **Deep Hydration:** Replenish moisture levels and restore vitality to your skin with our nourishing hydration treatments.\n- **Stress Relief:** Indulge in a moment of relaxation and tranquility with our soothing massage techniques, designed to melt away tension and promote overall well-being.\n- **Silky Smooth Texture:** Experience the luxurious sensation of velvety soft skin, courtesy of our expert exfoliation and moisturizing rituals.\n\n**Treat yourself to the ultimate indulgence with our Body Polishing service and discover the transformative power of radiant, luminous skin. Book your appointment today and embark on a journey to rejuvenation and renewal.**",
+        "Tags:",
+        "Body Polishing service in hosa road",
+        "Body Polishing service in bangalore",
+        "Body Polishing serivece in praghathi nagar",
+        "Active Staffs",
+        "4.5",
+        "Very Good Service",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "Reema Biswas",
+        "4 Oct 2020",
+        "5",
+        "Polite Staffs",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "Priyanka Singh",
+        "4 Nov 2020",
+        "More Rreviews",
+        "Related Services",
+        "Body Polishing",
+        "&#xa0;",
+        "0 min",
+        "&#x20b9;",
+        "0",
+        "&#x20b9;0",
+        "Send Enquiry",
+        "Massage",
+        "&#xa0;",
+        "0 min",
+        "&#x20b9;",
+        "0",
+        "&#x20b9;0"
+      ],
+      "all_text": "Body Polishing | THE MIRRORR Unisex Hair & Beauty Studio \n ,91,8088323885 \n 91,[\n  {\n    \"createdon\": \"2024-12-03T14:19:23.567Z\",\n    \"updatedon\": \"2024-12-03T14:19:23.567Z\",\n    \"_parentClassId\": \"660806b82e5dc8173c5b1024\",\n    \"_parentClassName\": \"business\",\n    \"_propertyName\": \"contacts\",\n    \"_kid\": \"674f136b920f9fac0d27d3dd\",\n    \"websiteid\": \"660806b8a63900ef8a46a4ef\",\n    \"isarchived\": false,\n    \"contacttype\": \"\",\n    \"contactnumber\": \"8088323885\"\n  },\n  {\n    \"createdon\": \"2024-12-03T14:19:23.567Z\",\n    \"updatedon\": \"2024-12-03T14:19:23.567Z\",\n    \"_parentClassId\": \"660806b82e5dc8173c5b1024\",\n    \"_parentClassName\": \"business\",\n    \"_propertyName\": \"contacts\",\n    \"_kid\": \"674f136b920f9fac0d27d3dc\",\n    \"websiteid\": \"660806b8a63900ef8a46a4ef\",\n    \"isarchived\": false,\n    \"contacttype\": \"\",\n    \"contactnumber\": \"8088323885\"\n  }\n] \n &#xa0; \n themirrorr2024@gmail.com \n +918088323885 \n Toggle navigation \n Book Appointment \n 0 \n Home \n About \n Services \n Body Polishing \n Massage \n WOMEN HAIR COLOR \n WOMEN HAIR CUT \n Updates \n Gallery \n Photos \n More \n Hair Spa in hosa \n ... \n FAMOUS SALON IN H \n ... \n \u200bBEST SALON IN HO \n ... \n WOMEN HAIR COLOR \n ... \n Contact \n Book Appointment \n 0 \n Updates \n Search \n THE MIRRORR Unisex Hair & Beauty Studio \n Services \n +918088323885 \n This is your website preview. \n Currently it only shows your basic business info. Start adding relevant business details such as description, images and products or services to gain your customers attention by using Boost 360 \n android app \n / \n iOS App \n / \n web portal \n . \n I UNDERSTAND \n 918088323885 \n Chat with us \n &#xa0; \n Chat with us on WhatsApp \n &#xd7; \n Start Chatting \n Body Polishing \n Home \n services \n Body Polishing \n Home \n services \n Body Polis \n Body Polishing \n by \n THE MIRRORR Unisex Hair & Beauty Studio \n Body Polishing \n Duration: \n 0 min \n &#x20b9; \n 0 \n Send Enquiry \n Share: \n Description \n Sure, here's a description for a body polishing service:\n\n---\n\n**Indulge in Luxury: Body Polishing Service**\n\nUnveil a radiant, luminous glow with our exclusive Body Polishing service, designed to pamper your skin and revitalize your senses. Our skilled therapists combine the finest ingredients with expert techniques to deliver a transformative experience that leaves your skin irresistibly smooth and radiant.\n\n**Experience the Ritual:**\n\n1. **Exfoliation:** Begin your journey to silky-smooth skin with a gentle exfoliation process that sloughs away dead skin cells, revealing the fresh, luminous skin beneath. Our exfoliating formulas are meticulously crafted to buff and refine, leaving your skin velvety soft and glowing.\n\n2. **Hydration:** Replenish your skin's moisture balance with our nourishing hydration treatments. Luxurious oils and creams infused with potent antioxidants and vitamins are expertly massaged into your skin, restoring vitality and suppleness while promoting cellular renewal.\n\n3. **Massage:** Drift into a state of bliss as our skilled therapists indulge your senses with a soothing massage. Tailored to your preferences, our massages melt away tension and stress, promoting relaxation and enhancing the overall well-being of your body and mind.\n\n4. **Finishing Touches:** Complete your body polishing experience with a lavish application of hydrating body butter or oil, leaving your skin enveloped in a delicate veil of silkiness. Revel in the sensation of silky-smooth skin and bask in the glow of your rejuvenated complexion.\n\n**Benefits:**\n\n- **Radiant Skin:** Say goodbye to dullness and hello to luminosity as our Body Polishing service unveils your skin's natural radiance.\n- **Deep Hydration:** Replenish moisture levels and restore vitality to your skin with our nourishing hydration treatments.\n- **Stress Relief:** Indulge in a moment of relaxation and tranquility with our soothing massage techniques, designed to melt away tension and promote overall well-being.\n- **Silky Smooth Texture:** Experience the luxurious sensation of velvety soft skin, courtesy of our expert exfoliation and moisturizing rituals.\n\n**Treat yourself to the ultimate indulgence with our Body Polishing service and discover the transformative power of radiant, luminous skin. Book your appointment today and embark on a journey to rejuvenation and renewal.** \n Tags: \n Body Polishing service in hosa road \n Body Polishing service in bangalore \n Body Polishing serivece in praghathi nagar \n Active Staffs \n 4.5 \n Very Good Service \n Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n Reema Biswas \n 4 Oct 2020 \n 5 \n Polite Staffs \n Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n Priyanka Singh \n 4 Nov 2020 \n More Rreviews \n Related Services \n Body Polishing \n &#xa0; \n 0 min \n &#x20b9; \n 0 \n &#x20b9;0 \n Send Enquiry \n Massage \n &#xa0; \n 0 min \n &#x20b9; \n 0 \n &#x20b9;0 \n Send Enquiry \n WOMEN HAIR COLOR \n &#xa0; \n 0 min \n &#x20b9; \n 0 \n &#x20b9;0 \n Send Enquiry \n https://themirrorrunisexhairbeautysalon.nowfloats.com \n Reach Us \n B. NO. 64, 1st Floor, Vinayaka nagara, Hosa Rd, near SOBHA SILICON OASIS, Doddanagamangala Village, Naganathapura, Bengaluru, Karnataka 560100 \n +918088323885 \n +918088323885 \n themirrorr2024@gmail.com \n Recently Updated services \n body polishing service in hosa road \n body polishing service in bangalore \n body polishing serivece in praghathi nagar \n massage service in hosa raad \n best salon in hosa road \n Subscribe to our updates \n Send \n Share Us On \n Report Abuse \n &#xa0;&#x2022;&#xa0; \n Sitemap \n &#xd7; \n Subscribe \n Close \n #3E68FF \n Book Appointment \n No Services available for booking. \n Select Staff \n AnyBody \n Services \n Select date and time \n Morning \n Appointment Slot Unavailable \n Afternoon \n Appointment Slot Unavailable \n Evening \n Appointment Slot Unavailable \n Night \n Appointment Slot Unavailable \n Appointment Slot Unavailable \n Close \n Done \n services \n &#x2716; \n True \n True \n 5b34bd254030c804fbbd8414 \n 660806b8a63900ef8a46a4ef \n 660806b8a63900ef8a46a4ef \n THEMIRRORRUNISEXHAIRBEAUTYSALON"
+    }
+  }
+}

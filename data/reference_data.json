@@ -1,0 +1,242 @@
+{
+  "business": {
+    "name": "THE MIRRORR Unisex Hair & Beauty Studio",
+    "shortName": "THE MIRRORR",
+    "tagline": "Unisex Hair & Beauty Studio in Bengaluru",
+    "location": {
+      "address": "B. No. 64, 1st Floor, Vinayaka Nagara, Hosa Road, near Sobha Silicon Oasis, Doddanagamangala Village, Naganathapura, Bengaluru, Karnataka 560100",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "pincode": "560100",
+      "landmark": "Near Sobha Silicon Oasis, Doddanagamangala / Naganathapura",
+      "coordinates": {
+        "lat": 12.818598022474724,
+        "lng": 77.74761579415772
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=12.818598022474724,77.74761579415772"
+    },
+    "contact": {
+      "phone": "+91 80883 23885",
+      "phoneRaw": "+918088323885",
+      "email": "themirrorr2024@gmail.com",
+      "whatsapp": "https://wa.me/918088323885"
+    },
+    "about": {
+      "overview": "The Mirror Unisex Hair & Beauty Salon is a premier destination in Bangalore, renowned for its expertise in hairstyling and beauty services. With a focus on personalized attention and meticulous detail, our seasoned professionals provide a diverse range of services, including haircuts, coloring, facials, and massages. We prioritize client satisfaction and foster a welcoming environment where everyone feels valued. Committed to holistic wellness and sustainability, we offer eco-friendly practices and holistic treatments to nourish the body, mind, and soul. Experience luxury and sophistication at The Mirror, where beauty meets excellence in every aspect of service.",
+      "coreValues": [
+        "Personalized Attention & Meticulous Detail",
+        "Welcoming, Inclusive Unisex Environment",
+        "Client Satisfaction & Transparent Consultations",
+        "Holistic Wellness & Gentle Formulas"
+      ]
+    }
+  },
+  "services": [
+    {
+      "id": "women-hair-cut",
+      "title": "Women Hair Cut",
+      "slug": "women-hair-cut",
+      "referenceUrl": "https://themirrorrunisexhairbeautysalon.nowfloats.com/services/women-hair-cut/1",
+      "category": "Hair Styling & Cuts",
+      "categoryKey": "hair-cut",
+      "priceVerified": false,
+      "priceDisplay": "Contact us for pricing",
+      "priceNote": "Reference site does not publish fixed prices. Inquire for customized consultation.",
+      "image": "assets/images/service_haircut.jpg",
+      "remoteImage": "https://productimages.withfloats.com/serviceimages/tile/660b99a65a08a11d4626643awoman-getting-her-hair-cut-beauty-salon-scaled",
+      "summary": "Personalized hair cutting designed to elevate your style and accentuate your natural beauty, from trendy bob cuts to classic layers.",
+      "fullDescription": "At The Mirror Salon, our Women's Hair Cut service is designed to elevate your style and accentuate your natural beauty. Our experienced stylists are adept at creating personalized cuts tailored to your unique preferences and features. Whether you're looking for a bold new look or a subtle refresh, we're here to bring your vision to life. From trendy bob cuts to classic layers, we offer a diverse range of styles to suit every taste. With attention to detail and precision, we ensure that each cut complements your face shape and enhances your overall look. Step into The Mirror Salon and let us transform your hair into a masterpiece of style and sophistication.",
+      "features": [
+        "Personalized face-shape consultation",
+        "Trendy bob cuts, classic layers & precision styling",
+        "Tailored to personal lifestyle and hair texture",
+        "Expert finishing and blowout advice"
+      ],
+      "tags": [
+        "women hair cut salon in hosa road",
+        "women hair cut salon in bangalore",
+        "women hair cut salon in karnataka",
+        "women hair cut salon in pragathi nagar",
+        "women hair cut salon in parappana agrahara"
+      ]
+    },
+    {
+      "id": "women-hair-color",
+      "title": "Women Hair Color",
+      "slug": "women-hair-color",
+      "referenceUrl": "https://themirrorrunisexhairbeautysalon.nowfloats.com/services/women-hair-color/2",
+      "category": "Hair Color & Treatments",
+      "categoryKey": "hair-color",
+      "priceVerified": false,
+      "priceDisplay": "Contact us for pricing",
+      "priceNote": "Reference site does not publish fixed prices. Inquire for customized consultation.",
+      "image": "assets/images/service_haircolor.jpg",
+      "remoteImage": "https://productimages.withfloats.com/serviceimages/tile/660b9d469f6e942b760d62d2HD-wallpaper-hair-colorful-skin-texture",
+      "summary": "Transformative and subtle coloring with custom blending, gentle damage-free formulas, and tailored aftercare.",
+      "fullDescription": "Highlights of our Hair Color Services:\n1. Custom Consultation: Before any color service, we offer a personalized consultation to understand your preferences, lifestyle, and hair goals. This ensures that we tailor the color to suit you perfectly.\n2. Professional Expertise: Our team of skilled colorists stays updated with the latest trends and techniques in hair coloring. You can trust us to deliver high-quality results every time.\n3. Wide Range of Options: From vibrant hues to soft, natural tones, we offer a comprehensive range of color options to suit every taste and complexion.\n4. Custom Blending: We specialize in custom blending techniques to create a unique color that complements your skin tone and enhances your features.\n5. Damage-Free Formulas: We prioritize the health of your hair, using gentle, ammonia-free formulas that minimize damage and maintain the integrity of your strands.\n6. Color Correction: If you're unhappy with a previous color treatment or need a correction, our color experts can help you achieve the desired result safely and effectively.\n7. Long-Lasting Results: We use top-quality color products that ensure your color stays vibrant and beautiful for as long as possible, with minimal fading.\n8. Aftercare Advice: To help you maintain your color between salon visits, we provide personalized aftercare advice and recommend professional-grade products to keep your hair healthy and vibrant.",
+      "features": [
+        "1. Custom Consultation: Personalized consultation for lifestyle and hair goals",
+        "2. Professional Expertise: Up-to-date techniques & skilled colorists",
+        "3. Wide Range of Options: From vibrant hues to natural tones",
+        "4. Custom Blending: Complements skin tone and features",
+        "5. Damage-Free Formulas: Gentle, ammonia-free priority",
+        "6. Color Correction: Safe, effective correction of previous treatments",
+        "7. Long-Lasting Results: Top-quality products with minimal fading",
+        "8. Aftercare Advice: Pro-grade maintenance recommendations"
+      ],
+      "tags": [
+        "women hair color salon in hosa road",
+        "women hair color salon in pragathi nagar",
+        "women hair color salon in banagalore",
+        "women hair color salon in karnataka",
+        "women hair color salon in ellectronic city"
+      ]
+    },
+    {
+      "id": "massage",
+      "title": "Massage Therapy",
+      "slug": "massage",
+      "referenceUrl": "https://themirrorrunisexhairbeautysalon.nowfloats.com/services/massage/3",
+      "category": "Massage Therapy",
+      "categoryKey": "massage",
+      "priceVerified": false,
+      "priceDisplay": "Contact us for pricing",
+      "priceNote": "Reference site does not publish fixed prices. Inquire for customized consultation.",
+      "image": "assets/images/service_massage.jpg",
+      "remoteImage": "https://productimages.withfloats.com/serviceimages/tile/66176d8d9e6097d4ec18726fthemirrorr01",
+      "summary": "Premier massage experience blending ancient techniques with modern expertise, featuring Swedish, deep tissue, hot stone, and aromatherapy styles.",
+      "fullDescription": "\"Indulge in a world of relaxation with our premier massage service, tailored to elevate your mind, body, and spirit. Our skilled therapists blend ancient techniques with modern expertise to provide you with a rejuvenating experience like no other.\n\nEmbark on a journey of tranquility as our therapists work their magic, easing tension and soothing tired muscles with expert precision. Choose from a variety of massage styles, including Swedish, deep tissue, hot stone, aromatherapy, and more, each designed to address your specific needs and preferences.\n\nStep into our serene oasis, where every detail is crafted to enhance your comfort and well-being. Let the gentle music, calming aromas, and plush surroundings transport you to a state of blissful relaxation. Whether you seek relief from stress, muscle soreness, or simply crave a moment of pampering, our massage service promises to leave you feeling refreshed, renewed, and revitalized.\n\nExperience the ultimate in relaxation and wellness with our exceptional massage service. Book your appointment today and treat yourself to the luxury you deserve.\"",
+      "features": [
+        "Swedish Massage for gentle tension release and circulation",
+        "Deep Tissue Massage for chronic muscle tension and knots",
+        "Hot Stone Therapy for deep warming relaxation",
+        "Aromatherapy with calming botanical essential oils",
+        "Serene ambient setting with gentle music and plush comforts"
+      ],
+      "tags": [
+        "massage service in hosa raad",
+        "head massage center in hosa road",
+        "best massage center in bangalore"
+      ]
+    },
+    {
+      "id": "body-polishing",
+      "title": "Body Polishing",
+      "slug": "body-polishing",
+      "referenceUrl": "https://themirrorrunisexhairbeautysalon.nowfloats.com/services/body-polishing/4",
+      "category": "Skin & Body Polishing",
+      "categoryKey": "body-polishing",
+      "priceVerified": false,
+      "priceDisplay": "Contact us for pricing",
+      "priceNote": "Reference site does not publish fixed prices. Inquire for customized consultation.",
+      "image": "assets/images/service_bodypolishing.jpg",
+      "remoteImage": "https://productimages.withfloats.com/serviceimages/tile/66177640c81c35d61fdfd13ddiy-body-polishingthemirrorr",
+      "summary": "Four-step luxurious skin treatment combining gentle exfoliation, deep antioxidant hydration, soothing massage, and silky finishing touches.",
+      "fullDescription": "Indulge in Luxury: Body Polishing Service\n\nUnveil a radiant, luminous glow with our exclusive Body Polishing service, designed to pamper your skin and revitalize your senses. Our skilled therapists combine the finest ingredients with expert techniques to deliver a transformative experience that leaves your skin irresistibly smooth and radiant.\n\nExperience the Ritual:\n1. Exfoliation: Begin your journey to silky-smooth skin with a gentle exfoliation process that sloughs away dead skin cells, revealing the fresh, luminous skin beneath. Our exfoliating formulas are meticulously crafted to buff and refine, leaving your skin velvety soft and glowing.\n2. Hydration: Replenish your skin's moisture balance with our nourishing hydration treatments. Luxurious oils and creams infused with potent antioxidants and vitamins are expertly massaged into your skin, restoring vitality and suppleness while promoting cellular renewal.\n3. Massage: Drift into a state of bliss as our skilled therapists indulge your senses with a soothing massage. Tailored to your preferences, our massages melt away tension and stress, promoting relaxation and enhancing the overall well-being of your body and mind.\n4. Finishing Touches: Complete your body polishing experience with a lavish application of hydrating body butter or oil, leaving your skin enveloped in a delicate veil of silkiness. Revel in the sensation of silky-smooth skin and bask in the glow of your rejuvenated complexion.\n\nBenefits:\n- Radiant Skin: Say goodbye to dullness and hello to luminosity as our Body Polishing service unveils your skin's natural radiance.\n- Deep Hydration: Restore moisture levels and replenish dry, thirsty skin with our intensive hydration treatments.\n- Stress Relief: Indulge in a moment of relaxation and tranquility with our soothing massage techniques, designed to melt away tension and promote overall well-being.\n- Silky Smooth Texture: Experience the luxurious sensation of velvety soft skin, courtesy of our expert exfoliation and moisturizing rituals.",
+      "features": [
+        "Step 1: Exfoliation with delicate skin-buffing scrub",
+        "Step 2: Deep Hydration with antioxidant-infused oils",
+        "Step 3: Tension-relieving soothing massage",
+        "Step 4: Finishing Touches with rich hydrating body butter",
+        "Key Benefits: Radiant skin, deep moisture, stress relief, velvet texture"
+      ],
+      "tags": [
+        "body polishing service in hosa road",
+        "body polishing service in bangalore",
+        "body polishing serivece in praghathi nagar"
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "src": "assets/images/gallery_1.jpg",
+      "remoteSrc": "https://fpimages.withfloats.com/actual/660b9376c27c8bfa4465e790.jpg",
+      "alt": "THE MIRRORR salon studio styling stations with modern mirrors and seating",
+      "category": "Studio Ambience",
+      "caption": "Spacious Unisex Styling Stations"
+    },
+    {
+      "id": "gal-2",
+      "src": "assets/images/gallery_2.jpg",
+      "remoteSrc": "https://fpimages.withfloats.com/actual/660b9383887b35bf51b153a8.jpg",
+      "alt": "Hair treatment and wash station at THE MIRRORR salon",
+      "category": "Hair Styling",
+      "caption": "Precision Hair Care & Wash Recliners"
+    },
+    {
+      "id": "gal-3",
+      "src": "assets/images/gallery_3.jpg",
+      "remoteSrc": "https://fpimages.withfloats.com/actual/660b938217445f91396ca91e.jpg",
+      "alt": "Interior view of the salon treatment area with warm ambient lighting",
+      "category": "Studio Ambience",
+      "caption": "Tranquil & Welcoming Ambience"
+    },
+    {
+      "id": "gal-4",
+      "src": "assets/images/gallery_4.jpg",
+      "remoteSrc": "https://fpimages.withfloats.com/actual/660b9382231ec71601affd94.jpg",
+      "alt": "Professional grooming and hair cutting station at THE MIRRORR",
+      "category": "Hair Styling",
+      "caption": "Dedicated Unisex Styling Mirrors"
+    },
+    {
+      "id": "gal-5",
+      "src": "assets/images/gallery_5.jpg",
+      "remoteSrc": "https://fpimages.withfloats.com/actual/660b93750d2b465f92892af9.jpg",
+      "alt": "Private wellness and therapy room for massage and body treatments",
+      "category": "Wellness",
+      "caption": "Private Massage & Therapy Suite"
+    },
+    {
+      "id": "gal-6",
+      "src": "assets/images/gallery_6.jpg",
+      "remoteSrc": "https://fpimages.withfloats.com/actual/660b93829f37f5af97e0a14d.jpg",
+      "alt": "Client waiting lounge with comfortable seating and hospitable atmosphere",
+      "category": "Studio Ambience",
+      "caption": "Comfortable Client Reception Lounge"
+    },
+    {
+      "id": "gal-7",
+      "src": "assets/images/gallery_7.jpg",
+      "remoteSrc": "https://fpimages.withfloats.com/actual/660b93759f37f5af97e0a137.jpg",
+      "alt": "Clean and sanitized salon tools and treatment area",
+      "category": "Wellness",
+      "caption": "Hygienic Tools & Sanitized Environment"
+    },
+    {
+      "id": "gal-8",
+      "src": "assets/images/gallery_8.jpg",
+      "remoteSrc": "https://fpimages.withfloats.com/actual/660b93837158b0d796cf841a.jpg",
+      "alt": "Full perspective view of THE MIRRORR Unisex Salon on Hosa Road",
+      "category": "Studio Ambience",
+      "caption": "Contemporary Unisex Studio Floor"
+    }
+  ],
+  "offers": [
+    {
+      "id": "bridal-sale",
+      "title": "Bridal season sale",
+      "discount": "₹20 OFF on Bridal makeup",
+      "isVerifiedLiveOffer": false,
+      "status": "Sample / Demo Content from Reference Template",
+      "auditNotes": "Found on reference homepage. The original description contains template dummy text ('Lorem Ipsum is simply dummy text...'). Displayed here transparently as reference sample content. Inquire directly for active bridal packages.",
+      "cta": "Inquire for Bridal Custom Packages"
+    }
+  ],
+  "auditMetadata": {
+    "referenceUrl": "https://themirrorrunisexhairbeautysalon.nowfloats.com/all-services/1",
+    "servicesCatalogChecked": [
+      "https://themirrorrunisexhairbeautysalon.nowfloats.com/all-services/1 (4 active services found)",
+      "https://themirrorrunisexhairbeautysalon.nowfloats.com/all-services/2 (0 additional services, pagination ends)"
+    ],
+    "serviceDetailsInspected": [
+      "https://themirrorrunisexhairbeautysalon.nowfloats.com/services/women-hair-cut/1",
+      "https://themirrorrunisexhairbeautysalon.nowfloats.com/services/women-hair-color/2",
+      "https://themirrorrunisexhairbeautysalon.nowfloats.com/services/massage/3",
+      "https://themirrorrunisexhairbeautysalon.nowfloats.com/services/body-polishing/4"
+    ],
+    "pricingFindings": "No numerical pricing is published on the reference site. The booking engine displayed 'No Services available for booking.' All services use 'Contact us for pricing'.",
+    "socialLinks": "Reference site includes generic social sharing buttons (Facebook, Twitter/X, WhatsApp, LinkedIn share dialogs) but no verified proprietary social channel handles."
+  }
+}

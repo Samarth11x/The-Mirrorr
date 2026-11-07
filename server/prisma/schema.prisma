@@ -1,0 +1,79 @@
+// Prisma Schema for THE MIRRORR Unisex Hair & Beauty Studio
+// Configured with SQLite for seamless local development, testing, and offline execution.
+// A production PostgreSQL schema is also provided in schema.postgresql.prisma.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model AdminUser {
+  id           String   @id @default(uuid())
+  email        String   @unique
+  passwordHash String
+  name         String
+  role         String   @default("admin") // "admin", "staff"
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+model Service {
+  id              String   @id @default(uuid())
+  name            String
+  slug            String   @unique
+  category        String   // "hair-cut", "hair-color", "massage", "body-polishing"
+  description     String   // Short summary
+  detailedContent String   // Full protocol & verified description
+  price           String?  // Optional price; empty if not verified ("Contact us for pricing")
+  imagePath       String?  // Local asset path or URL
+  active          Boolean  @default(true)
+  displayOrder    Int      @default(0)
+  features        String?  // JSON array of feature highlights
+  tags            String?  // JSON array of verified location/service tags
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+}
+
+model Enquiry {
+  id              String   @id @default(uuid())
+  customerName    String
+  contactMethod   String   // Phone or email or combined string
+  email           String?
+  phone           String?
+  message         String?
+  selectedService String?  // Optional selected service name
+  preferredTime   String?  // e.g. "Morning", "Afternoon", "Evening", "Flexible"
+  status          String   @default("new") // "new", "contacted", "closed"
+  notes           String?  // Staff internal notes
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+}
+
+model GalleryItem {
+  id           String   @id @default(uuid())
+  imagePath    String
+  altText      String
+  category     String   // "ambience", "hair", "wellness"
+  active       Boolean  @default(true)
+  displayOrder Int      @default(0)
+  caption      String?
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+model SalonSetting {
+  id           String   @id @default("default-settings")
+  salonName    String   @default("THE MIRRORR Unisex Hair & Beauty Studio")
+  tagline      String   @default("Unisex Hair & Beauty Studio in Bengaluru")
+  address      String   @default("B. No. 64, 1st Floor, Vinayaka Nagara, Hosa Road, near Sobha Silicon Oasis, Doddanagamangala Village, Naganathapura, Bengaluru, Karnataka 560100")
+  phone        String   @default("+91 80883 23885")
+  email        String   @default("themirrorr2024@gmail.com")
+  lat          Float    @default(12.818598022474724)
+  lng          Float    @default(77.74761579415772)
+  googleMapsUrl String  @default("https://www.google.com/maps/search/?api=1&query=12.818598022474724,77.74761579415772")
+  updatedAt    DateTime @updatedAt
+}

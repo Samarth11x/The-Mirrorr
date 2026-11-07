@@ -1,0 +1,89 @@
+// PostgreSQL Production Schema for THE MIRRORR Unisex Hair & Beauty Studio
+// Switch to this schema in production with PostgreSQL:
+// cp server/prisma/schema.postgresql.prisma server/prisma/schema.prisma && npx prisma migrate deploy
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model AdminUser {
+  id           String   @id @default(uuid())
+  email        String   @unique
+  passwordHash String
+  name         String
+  role         String   @default("admin")
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  @@map("admin_users")
+}
+
+model Service {
+  id              String   @id @default(uuid())
+  name            String
+  slug            String   @unique
+  category        String
+  description     String
+  detailedContent String   @db.Text
+  price           String?
+  imagePath       String?
+  active          Boolean  @default(true)
+  displayOrder    Int      @default(0)
+  features        String?  @db.Text
+  tags            String?  @db.Text
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  @@map("services")
+}
+
+model Enquiry {
+  id              String   @id @default(uuid())
+  customerName    String
+  contactMethod   String
+  email           String?
+  phone           String?
+  message         String?  @db.Text
+  selectedService String?
+  preferredTime   String?
+  status          String   @default("new")
+  notes           String?  @db.Text
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  @@map("enquiries")
+}
+
+model GalleryItem {
+  id           String   @id @default(uuid())
+  imagePath    String
+  altText      String
+  category     String
+  active       Boolean  @default(true)
+  displayOrder Int      @default(0)
+  caption      String?
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  @@map("gallery_items")
+}
+
+model SalonSetting {
+  id            String   @id @default("default-settings")
+  salonName     String   @default("THE MIRRORR Unisex Hair & Beauty Studio")
+  tagline       String   @default("Unisex Hair & Beauty Studio in Bengaluru")
+  address       String   @default("B. No. 64, 1st Floor, Vinayaka Nagara, Hosa Road, near Sobha Silicon Oasis, Doddanagamangala Village, Naganathapura, Bengaluru, Karnataka 560100")
+  phone         String   @default("+91 80883 23885")
+  email         String   @default("themirrorr2024@gmail.com")
+  lat           Float    @default(12.818598022474724)
+  lng           Float    @default(77.74761579415772)
+  googleMapsUrl String   @default("https://www.google.com/maps/search/?api=1&query=12.818598022474724,77.74761579415772")
+  updatedAt     DateTime @updatedAt
+
+  @@map("salon_settings")
+}

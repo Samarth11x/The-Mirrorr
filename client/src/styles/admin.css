@@ -1,0 +1,214 @@
+/* ==========================================================================
+   THE MIRRORR Admin Dashboard Stylesheet
+   Modern, secure management interface for salon staff
+   ========================================================================== */
+
+.admin-wrapper {
+  min-height: 100vh;
+  background-color: #F7F5F2;
+  color: #1C1917;
+  font-family: var(--font-sans);
+}
+
+/* Login Screen */
+.admin-login-hero {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  background: linear-gradient(135deg, #1C1917 0%, #2A2523 100%);
+}
+
+.admin-login-card {
+  max-width: 420px;
+  width: 100%;
+  background: #FFFFFF;
+  border-radius: var(--radius-lg);
+  padding: 40px 32px;
+  box-shadow: var(--shadow-lg);
+}
+
+.admin-login-header {
+  text-align: center;
+  margin-bottom: 28px;
+}
+.admin-login-title {
+  font-family: var(--font-serif);
+  font-size: 1.5rem;
+  color: #1C1917;
+  margin-top: 10px;
+}
+.admin-login-sub {
+  font-size: 0.8125rem;
+  color: #78716C;
+  margin-top: 4px;
+}
+
+/* Admin Dashboard Top Navigation */
+.admin-top-nav {
+  background: #1C1917;
+  color: #FAF8F5;
+  border-bottom: 1px solid #332D29;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.admin-top-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 64px;
+}
+
+.admin-nav-tabs {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  overflow-x: auto;
+  padding: 12px 0;
+}
+
+.admin-tab-btn {
+  padding: 8px 18px;
+  border-radius: var(--radius-full);
+  font-size: 0.8125rem;
+  font-weight: 600;
+  cursor: pointer;
+  border: 1px solid transparent;
+  background: transparent;
+  color: #A8A29E;
+  transition: var(--transition);
+}
+.admin-tab-btn:hover {
+  color: #FAF8F5;
+  background: rgba(255, 255, 255, 0.08);
+}
+.admin-tab-btn.active {
+  background: var(--color-terracotta);
+  color: #FFFFFF;
+}
+
+/* Admin Main Content Container */
+.admin-content-area {
+  padding: 32px 0 64px;
+}
+
+.admin-panel-card {
+  background: #FFFFFF;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-medium);
+  box-shadow: var(--shadow-sm);
+  padding: 24px;
+  margin-bottom: 24px;
+}
+@media (min-width: 768px) {
+  .admin-panel-card {
+    padding: 32px;
+  }
+}
+
+.admin-panel-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-bottom: 24px;
+  padding-bottom: 18px;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.admin-panel-title {
+  font-family: var(--font-serif);
+  font-size: 1.5rem;
+  color: #1C1917;
+}
+
+/* Enquiries Table & Cards */
+.enquiries-table-responsive {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.enquiries-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+  text-align: left;
+}
+
+.enquiries-table th {
+  background: #F5F2ED;
+  padding: 12px 16px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #57534E;
+  border-bottom: 1px solid var(--border-medium);
+}
+
+.enquiries-table td {
+  padding: 16px;
+  border-bottom: 1px solid var(--border-subtle);
+  vertical-align: top;
+}
+
+.enquiry-status-badge {
+  display: inline-block;
+  padding: 3px 8px;
+  border-radius: var(--radius-full);
+  font-size: 0.6875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.status-new {
+  background: #FFEDD5;
+  color: #C2410C;
+}
+.status-contacted {
+  background: #DBEAFE;
+  color: #1E40AF;
+}
+.status-closed {
+  background: #F3F4F6;
+  color: #4B5563;
+}
+
+.status-select {
+  padding: 4px 8px;
+  border-radius: var(--radius-xs);
+  border: 1px solid var(--border-medium);
+  font-size: 0.75rem;
+  font-weight: 600;
+  background: #FFFFFF;
+}
+
+.notes-input {
+  width: 100%;
+  padding: 6px 10px;
+  border-radius: var(--radius-xs);
+  border: 1px solid var(--border-medium);
+  font-size: 0.8125rem;
+  resize: vertical;
+}
+
+/* Service Item Edit Row */
+.service-admin-item {
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-sm);
+  padding: 20px;
+  margin-bottom: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 16px;
+  background: #FCFAF7;
+}
+
+.service-admin-meta {
+  max-width: 680px;
+}
